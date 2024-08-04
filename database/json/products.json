@@ -1,0 +1,19 @@
+[
+    {
+        "product_name": "Product 1",
+        "serial_no": "123456",
+        "model_no": "Model123",
+        "barcode": "1234567890123",
+        "brand": "BrandA",
+        "group": "GroupA",
+        "category_id": 1,
+        "product_unit_id": 1,
+        "purchase_price": 10.00,
+        "sale_price": 15.00,
+        "whole_sale_price": 12.00,
+        "alert_quantity": 0,
+        "featured": false,
+        "product_image": "path/to/image1.jpg",
+        "product_details": "Detailed description of product 1."
+    }
+]

@@ -11,12 +11,7 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('_units', function (Blueprint $table) {
-            $table->id();
-            $table->string('name'); 
-            $table->decimal('amount', total: 8, places: 2);
-            $table->timestamps();
-        });
+        Schema::rename('productss', 'products');
     }
 
     /**
@@ -24,6 +19,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('_units');
+        Schema::rename('products', 'productss');
     }
 };

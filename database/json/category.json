@@ -1,0 +1,23 @@
+[
+    {
+        "Image": "path/to/image.jpg",
+        "category_name": "Electronics",
+        "parent_category": "Home Appliances",
+        "product_count": 100
+    },
+    {
+        "Image": "path/to/another_image.jpg",
+        "category_name": "Furniture",
+        "parent_category": "Home",
+        "product_count": 50
+    }
+    ,
+    {
+        "Image": "path/to/yet_another_image.jpg",
+        "category_name": "Books",
+        "parent_category": "N/A",
+        "product_count": 200
+    }
+    
+    
+]

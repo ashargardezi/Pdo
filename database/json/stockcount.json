@@ -1,0 +1,26 @@
+[
+    {
+        "barcode": "10001",
+        "product_name": "cake1",
+        "unit": "gram",
+        "quantity": "4",
+        "unit_price": "500",
+        "total_Price": "2608"
+    },
+    {
+        "barcode": "10002",
+        "product_name": "cake2",
+        "unit": "kg2",
+        "quantity": "4",
+        "unit_price": "500",
+        "total_Price": "2608"
+    },
+    {
+        "barcode": "10003",
+        "product_name": "cake3",
+        "unit": "kg3",
+        "quantity": "4",
+        "unit_price": "500",
+        "total_Price": "2608"
+    }
+]

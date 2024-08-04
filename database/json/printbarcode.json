@@ -1,0 +1,17 @@
+[
+    {
+        "product_name": "cake",
+        "barcode": "00000123",
+        "price": "100"
+    },
+    {
+        "product_name": "bisut",
+        "barcode": "00000123",
+        "price": "100"
+    },
+    {
+        "product_name": "juice",
+        "barcode": "00000123",
+        "price": "100"
+    }
+]

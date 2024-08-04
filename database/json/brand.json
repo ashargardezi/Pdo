@@ -1,0 +1,14 @@
+[
+    {
+        "image": "upload/image.png",
+        "brand_name": "apple"
+    },
+    {
+        "image": "upload/image.png",
+        "brand_name": "honda"
+    },
+    {
+        "image": "upload/image.png",
+        "brand_name": "samsung"
+    }
+]
